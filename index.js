@@ -20,7 +20,14 @@ module.exports = {
       sourceType: "module",
     },
     plugins: ["react", "@typescript-eslint", "testing-library"],
+    overrides: [
+      {
+        files: ["**/?(*.)+spec.ts?(x)"],
+        extends: ["plugin:testing-library/react"],
+      },
+    ],
     rules: {
+      "import/no-anonymous-default-export": "off",
       "import/no-unresolved": "off",
       "import/extensions": "off",
       "no-underscore-dangle": "off",
