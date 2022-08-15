@@ -2,7 +2,7 @@
   "version": "0.1.6",
   "license": "MIT",
   "main": "index.js",
-  "name": "@gothicgeeks/eslint-config",
+  "name": "@adminator/eslint-config",
   "author": "Ayobami Akingbade",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.30.5",
