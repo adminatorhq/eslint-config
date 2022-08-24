@@ -1,3 +1,3 @@
-# Adminator ESLint Config
+# Hadmean ESLint Config
 
-[ESlint](https://eslint.org/) config used for Adminator.
+[ESlint](https://eslint.org/) config used for Hadmean.

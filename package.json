@@ -1,8 +1,8 @@
 {
-  "version": "0.1.8",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "index.js",
-  "name": "@adminator/eslint-config",
+  "name": "@hadmean/eslint-config",
   "author": "Ayobami Akingbade",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.30.5",
