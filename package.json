@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "main": "index.js",
   "name": "@hadmean/eslint-config",
@@ -7,6 +7,7 @@
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.30.5",
     "@typescript-eslint/parser": "^5.30.5",
+    "eslint": "^8.2.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-next": "12.1.6",
     "eslint-config-prettier": "^8.5.0",
@@ -15,10 +16,9 @@
     "eslint-plugin-n": "^15.0.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-react": "^7.28.0",
     "eslint-plugin-react-hooks": "^4.3.0",
     "eslint-plugin-testing-library": "^5.5.1",
-    "prettier": "^2.7.1",
-    "eslint": "^8.2.0",
-    "eslint-plugin-react": "^7.28.0"
+    "prettier": "^2.7.1"
   }
 }
