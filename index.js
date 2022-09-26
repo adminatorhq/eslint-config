@@ -50,5 +50,7 @@ module.exports = {
     "consistent-return": "off",
     "default-case": "off",
     "react/jsx-props-no-spreading": "off",
+    "no-restricted-syntax": "off",
+    "no-await-in-loop": "off",
   },
 };
