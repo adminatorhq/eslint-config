@@ -4,6 +4,9 @@
   "main": "index.js",
   "name": "@hadmean/eslint-config",
   "author": "Ayobami Akingbade",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.30.5",
     "@typescript-eslint/parser": "^5.30.5",
